@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\dashboard.css",
+      "PackagePath": "staticwebassets\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\feather.min.js",
+      "PackagePath": "staticwebassets\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\popper.min.js",
+      "PackagePath": "staticwebassets\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kofia.MATRIONREBORN\\OneDrive\\Documents\\Android Development\\Blazor projects\\Assignment\\Assignment\\wwwroot\\signin.css",
+      "PackagePath": "staticwebassets\\signin.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
